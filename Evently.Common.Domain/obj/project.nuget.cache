@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CmHYPP8T/Eg=",
+  "success": true,
+  "projectFilePath": "D:\\Personal\\Modular_monolith\\Evently.Common.Domain\\Evently.Common.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rokkh\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\rokkh\\.nuget\\packages\\sonaranalyzer.csharp\\9.24.0.89429\\sonaranalyzer.csharp.9.24.0.89429.nupkg.sha512"
+  ],
+  "logs": []
+}

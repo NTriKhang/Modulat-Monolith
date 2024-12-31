@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Evently.Common.Domain/1.0.0": {
+        "dependencies": {
+          "MediatR.Contracts": "2.0.1",
+          "SonarAnalyzer.CSharp": "9.24.0.89429"
+        },
+        "runtime": {
+          "Evently.Common.Domain.dll": {}
+        }
+      },
+      "MediatR.Contracts/2.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "assemblyVersion": "2.0.1.0",
+            "fileVersion": "2.0.1.0"
+          }
+        }
+      },
+      "SonarAnalyzer.CSharp/9.24.0.89429": {}
+    }
+  },
+  "libraries": {
+    "Evently.Common.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MediatR.Contracts/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FYv95bNT4UwcNA+G/J1oX5OpRiSUxteXaUt2BJbRSdRNiIUNbggJF69wy6mnk2wYToaanpdXZdCwVylt96MpwQ==",
+      "path": "mediatr.contracts/2.0.1",
+      "hashPath": "mediatr.contracts.2.0.1.nupkg.sha512"
+    },
+    "SonarAnalyzer.CSharp/9.24.0.89429": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ozk4LVpLNHhd+mmYKiG/WYtUUBZFknpkRy5JwTq4YfmT2wPA16vev5s/42urrN27ZV+01Kb5aYKJt3EI+5jPdw==",
+      "path": "sonaranalyzer.csharp/9.24.0.89429",
+      "hashPath": "sonaranalyzer.csharp.9.24.0.89429.nupkg.sha512"
+    }
+  }
+}

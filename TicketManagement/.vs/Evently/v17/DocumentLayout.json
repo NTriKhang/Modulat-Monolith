@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Personal\\Modular_monolith\\TicketManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60A0C3A8-4ADB-43DB-8C63-1B8AECC259E3}|..\\Evently.Modules.Users.Application\\Evently.Modules.Users.Application.csproj|d:\\personal\\modular_monolith\\evently.modules.users.application\\users\\getuser\\getuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A0C3A8-4ADB-43DB-8C63-1B8AECC259E3}|..\\Evently.Modules.Users.Application\\Evently.Modules.Users.Application.csproj|d:\\personal\\modular_monolith\\evently.modules.users.application\\users\\getuser\\getuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C71545-0E5B-4C08-92F7-52A4C1099CF8}|..\\Evently.Modules.Users.Presentation\\Evently.Modules.Users.Presentation.csproj|d:\\personal\\modular_monolith\\evently.modules.users.presentation\\users\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19417D2A-6ABB-44F5-A2EF-AE017EAD3653}|..\\Evently.Common.Application\\Evently.Common.Application.csproj|d:\\personal\\modular_monolith\\evently.common.application\\behaviors\\validationpipelinebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A0C3A8-4ADB-43DB-8C63-1B8AECC259E3}|..\\Evently.Modules.Users.Application\\Evently.Modules.Users.Application.csproj|d:\\personal\\modular_monolith\\evently.modules.users.application\\users\\registeruser\\registerusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BE9A63-D6A0-4332-AF1A-A867592A4901}|..\\Evently.Common.Infrastructure\\Evently.Common.Infrastructure.csproj|d:\\personal\\modular_monolith\\evently.common.infrastructure\\infrastructureconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F954BFF-D6B2-440B-A531-E7FDEEF8714F}|Evently\\Evently.Api.csproj|d:\\personal\\modular_monolith\\ticketmanagement\\evently\\extensions\\migrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F954BFF-D6B2-440B-A531-E7FDEEF8714F}|Evently\\Evently.Api.csproj|solutionrelative:evently\\extensions\\migrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F954BFF-D6B2-440B-A531-E7FDEEF8714F}|Evently\\Evently.Api.csproj|d:\\personal\\modular_monolith\\ticketmanagement\\evently\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F954BFF-D6B2-440B-A531-E7FDEEF8714F}|Evently\\Evently.Api.csproj|solutionrelative:evently\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35967882-D73A-421F-8D27-5AD11CF2FE5C}|..\\Evently.Modules.Users.Infrastructure\\Evently.Modules.Users.Infrastructure.csproj|d:\\personal\\modular_monolith\\evently.modules.users.infrastructure\\usersmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A0C3A8-4ADB-43DB-8C63-1B8AECC259E3}|..\\Evently.Modules.Users.Application\\Evently.Modules.Users.Application.csproj|d:\\personal\\modular_monolith\\evently.modules.users.application\\users\\registeruser\\registerusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7395C66-ADEB-4FDC-BA9F-23DA3F70A2B0}|..\\Evently.Modules.Events.Application\\Evently.Modules.Events.Application.csproj|d:\\personal\\modular_monolith\\evently.modules.events.application\\events\\rescheduleevent\\rescheduleeventcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetUserQueryHandler.cs",
+              "DocumentMoniker": "D:\\Personal\\Modular_monolith\\Evently.Modules.Users.Application\\Users\\GetUser\\GetUserQueryHandler.cs",
+              "RelativeDocumentMoniker": "..\\Evently.Modules.Users.Application\\Users\\GetUser\\GetUserQueryHandler.cs",
+              "ToolTip": "D:\\Personal\\Modular_monolith\\Evently.Modules.Users.Application\\Users\\GetUser\\GetUserQueryHandler.cs",
+              "RelativeToolTip": "..\\Evently.Modules.Users.Application\\Users\\GetUser\\GetUserQueryHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T22:18:05.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetUserQuery.cs",
+              "DocumentMoniker": "D:\\Personal\\Modular_monolith\\Evently.Modules.Users.Application\\Users\\GetUser\\GetUserQuery.cs",
+              "RelativeDocumentMoniker": "..\\Evently.Modules.Users.Application\\Users\\GetUser\\GetUserQuery.cs",
+              "ToolTip": "D:\\Personal\\Modular_monolith\\Evently.Modules.Users.Application\\Users\\GetUser\\GetUserQuery.cs",
+              "RelativeToolTip": "..\\Evently.Modules.Users.Application\\Users\\GetUser\\GetUserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T22:18:04.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InfrastructureConfiguration.cs",
+              "DocumentMoniker": "D:\\Personal\\Modular_monolith\\Evently.Common.Infrastructure\\InfrastructureConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\Evently.Common.Infrastructure\\InfrastructureConfiguration.cs",
+              "ToolTip": "D:\\Personal\\Modular_monolith\\Evently.Common.Infrastructure\\InfrastructureConfiguration.cs",
+              "RelativeToolTip": "..\\Evently.Common.Infrastructure\\InfrastructureConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T22:07:21.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MigrationExtensions.cs",
+              "DocumentMoniker": "D:\\Personal\\Modular_monolith\\TicketManagement\\Evently\\Extensions\\MigrationExtensions.cs",
+              "RelativeDocumentMoniker": "Evently\\Extensions\\MigrationExtensions.cs",
+              "ToolTip": "D:\\Personal\\Modular_monolith\\TicketManagement\\Evently\\Extensions\\MigrationExtensions.cs",
+              "RelativeToolTip": "Evently\\Extensions\\MigrationExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T22:07:07.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal\\Modular_monolith\\TicketManagement\\Evently\\Program.cs",
+              "RelativeDocumentMoniker": "Evently\\Program.cs",
+              "ToolTip": "D:\\Personal\\Modular_monolith\\TicketManagement\\Evently\\Program.cs",
+              "RelativeToolTip": "Evently\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T22:03:43.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersModule.cs",
+              "DocumentMoniker": "D:\\Personal\\Modular_monolith\\Evently.Modules.Users.Infrastructure\\UsersModule.cs",
+              "RelativeDocumentMoniker": "..\\Evently.Modules.Users.Infrastructure\\UsersModule.cs",
+              "ToolTip": "D:\\Personal\\Modular_monolith\\Evently.Modules.Users.Infrastructure\\UsersModule.cs",
+              "RelativeToolTip": "..\\Evently.Modules.Users.Infrastructure\\UsersModule.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T22:03:27.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterUserCommandHandler.cs",
+              "DocumentMoniker": "D:\\Personal\\Modular_monolith\\Evently.Modules.Users.Application\\Users\\RegisterUser\\RegisterUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\Evently.Modules.Users.Application\\Users\\RegisterUser\\RegisterUserCommandHandler.cs",
+              "ToolTip": "D:\\Personal\\Modular_monolith\\Evently.Modules.Users.Application\\Users\\RegisterUser\\RegisterUserCommandHandler.cs",
+              "RelativeToolTip": "..\\Evently.Modules.Users.Application\\Users\\RegisterUser\\RegisterUserCommandHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T22:02:49.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterUser.cs",
+              "DocumentMoniker": "D:\\Personal\\Modular_monolith\\Evently.Modules.Users.Presentation\\Users\\RegisterUser.cs",
+              "RelativeDocumentMoniker": "..\\Evently.Modules.Users.Presentation\\Users\\RegisterUser.cs",
+              "ToolTip": "D:\\Personal\\Modular_monolith\\Evently.Modules.Users.Presentation\\Users\\RegisterUser.cs",
+              "RelativeToolTip": "..\\Evently.Modules.Users.Presentation\\Users\\RegisterUser.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T22:02:49.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidationPipelineBehavior.cs",
+              "DocumentMoniker": "D:\\Personal\\Modular_monolith\\Evently.Common.Application\\Behaviors\\ValidationPipelineBehavior.cs",
+              "RelativeDocumentMoniker": "..\\Evently.Common.Application\\Behaviors\\ValidationPipelineBehavior.cs",
+              "ToolTip": "D:\\Personal\\Modular_monolith\\Evently.Common.Application\\Behaviors\\ValidationPipelineBehavior.cs",
+              "RelativeToolTip": "..\\Evently.Common.Application\\Behaviors\\ValidationPipelineBehavior.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAnwC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T22:12:47.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterUserCommandValidator.cs",
+              "DocumentMoniker": "D:\\Personal\\Modular_monolith\\Evently.Modules.Users.Application\\Users\\RegisterUser\\RegisterUserCommandValidator.cs",
+              "RelativeDocumentMoniker": "..\\Evently.Modules.Users.Application\\Users\\RegisterUser\\RegisterUserCommandValidator.cs",
+              "ToolTip": "D:\\Personal\\Modular_monolith\\Evently.Modules.Users.Application\\Users\\RegisterUser\\RegisterUserCommandValidator.cs",
+              "RelativeToolTip": "..\\Evently.Modules.Users.Application\\Users\\RegisterUser\\RegisterUserCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T22:01:47.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RescheduleEventCommandValidator.cs",
+              "DocumentMoniker": "D:\\Personal\\Modular_monolith\\Evently.Modules.Events.Application\\Events\\RescheduleEvent\\RescheduleEventCommandValidator.cs",
+              "RelativeDocumentMoniker": "..\\Evently.Modules.Events.Application\\Events\\RescheduleEvent\\RescheduleEventCommandValidator.cs",
+              "ToolTip": "D:\\Personal\\Modular_monolith\\Evently.Modules.Events.Application\\Events\\RescheduleEvent\\RescheduleEventCommandValidator.cs",
+              "RelativeToolTip": "..\\Evently.Modules.Events.Application\\Events\\RescheduleEvent\\RescheduleEventCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T22:01:31.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

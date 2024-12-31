@@ -1,0 +1,12 @@
+D:\Personal\TicketManagement\Evently.Modules.Events.Api\bin\Debug\net8.0\Evently.Modules.Events.Api.deps.json
+D:\Personal\TicketManagement\Evently.Modules.Events.Api\bin\Debug\net8.0\Evently.Modules.Events.Api.dll
+D:\Personal\TicketManagement\Evently.Modules.Events.Api\bin\Debug\net8.0\Evently.Modules.Events.Api.pdb
+D:\Personal\TicketManagement\Evently.Modules.Events.Api\obj\Debug\net8.0\Evently.Modules.Events.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\TicketManagement\Evently.Modules.Events.Api\obj\Debug\net8.0\Evently.Modules.Events.Api.AssemblyInfoInputs.cache
+D:\Personal\TicketManagement\Evently.Modules.Events.Api\obj\Debug\net8.0\Evently.Modules.Events.Api.AssemblyInfo.cs
+D:\Personal\TicketManagement\Evently.Modules.Events.Api\obj\Debug\net8.0\Evently.Modules.Events.Api.csproj.CoreCompileInputs.cache
+D:\Personal\TicketManagement\Evently.Modules.Events.Api\obj\Debug\net8.0\Evently.Modules.Events.Api.dll
+D:\Personal\TicketManagement\Evently.Modules.Events.Api\obj\Debug\net8.0\refint\Evently.Modules.Events.Api.dll
+D:\Personal\TicketManagement\Evently.Modules.Events.Api\obj\Debug\net8.0\Evently.Modules.Events.Api.pdb
+D:\Personal\TicketManagement\Evently.Modules.Events.Api\obj\Debug\net8.0\ref\Evently.Modules.Events.Api.dll
+D:\Personal\TicketManagement\Evently.Modules.Events.Api\obj\Debug\net8.0\Evently.Modules.Events.Api.csproj.AssemblyReference.cache

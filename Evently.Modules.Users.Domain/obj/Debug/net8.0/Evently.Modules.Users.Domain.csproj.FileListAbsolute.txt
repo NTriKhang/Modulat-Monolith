@@ -1,0 +1,15 @@
+D:\Personal\Modular_monolith\Evently.Modules.Users.Domain\bin\Debug\net8.0\Evently.Modules.Users.Domain.deps.json
+D:\Personal\Modular_monolith\Evently.Modules.Users.Domain\bin\Debug\net8.0\Evently.Modules.Users.Domain.dll
+D:\Personal\Modular_monolith\Evently.Modules.Users.Domain\bin\Debug\net8.0\Evently.Modules.Users.Domain.pdb
+D:\Personal\Modular_monolith\Evently.Modules.Users.Domain\bin\Debug\net8.0\Evently.Common.Domain.dll
+D:\Personal\Modular_monolith\Evently.Modules.Users.Domain\bin\Debug\net8.0\Evently.Common.Domain.pdb
+D:\Personal\Modular_monolith\Evently.Modules.Users.Domain\obj\Debug\net8.0\Evently.Modules.Users.Domain.csproj.AssemblyReference.cache
+D:\Personal\Modular_monolith\Evently.Modules.Users.Domain\obj\Debug\net8.0\Evently.Modules.Users.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Modular_monolith\Evently.Modules.Users.Domain\obj\Debug\net8.0\Evently.Modules.Users.Domain.AssemblyInfoInputs.cache
+D:\Personal\Modular_monolith\Evently.Modules.Users.Domain\obj\Debug\net8.0\Evently.Modules.Users.Domain.AssemblyInfo.cs
+D:\Personal\Modular_monolith\Evently.Modules.Users.Domain\obj\Debug\net8.0\Evently.Modules.Users.Domain.csproj.CoreCompileInputs.cache
+D:\Personal\Modular_monolith\Evently.Modules.Users.Domain\obj\Debug\net8.0\Evently..65CACA67.Up2Date
+D:\Personal\Modular_monolith\Evently.Modules.Users.Domain\obj\Debug\net8.0\Evently.Modules.Users.Domain.dll
+D:\Personal\Modular_monolith\Evently.Modules.Users.Domain\obj\Debug\net8.0\refint\Evently.Modules.Users.Domain.dll
+D:\Personal\Modular_monolith\Evently.Modules.Users.Domain\obj\Debug\net8.0\Evently.Modules.Users.Domain.pdb
+D:\Personal\Modular_monolith\Evently.Modules.Users.Domain\obj\Debug\net8.0\ref\Evently.Modules.Users.Domain.dll
